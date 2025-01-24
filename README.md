@@ -1,0 +1,2 @@
+# NBI_python_delkurs2_kunskapskontroll-
+NBI_python_delkurs2_kunskapskontroll 
