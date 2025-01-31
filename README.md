@@ -50,15 +50,15 @@ A sleek and interactive AI-powered digit recognition app built using **Python, S
 ## 💻 How to Run 
 
 ### **1️⃣ Clone the Repository**  
-git clone https://github.com/Mrcolgate2024/mnist-digit-recognition.git
+git clone https://github.com/Mrcolgate2024/NBI_python_delkurs2_kunskapskontroll
 
-cd mnist-digit-recognition
+cd NBI_python_delkurs2_kunskapskontroll
 
 ### **2️⃣ Install Dependencies**  
 pip install -r requirements.txt
 
 ### **3️⃣ Run the App**  
-streamlit run app.py
+streamlit run MNIST_Digit_Recog_App_BRA.py
 
 ---
 
