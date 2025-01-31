@@ -58,7 +58,7 @@ cd NBI_python_delkurs2_kunskapskontroll
 pip install -r requirements.txt
 
 ### **3️⃣ Run the App**  
-streamlit run MNIST_Digit_Recog_App_BRA.py
+streamlit run DigitRecog_App.py
 
 ---
 
@@ -67,7 +67,7 @@ streamlit run MNIST_Digit_Recog_App_BRA.py
 
 🔹 **Enhance UI with animations and custom themes**
 
-🔹 **Deploy the app online for public access**
+🔹 **Deploy the app online for public access - [digitsense.streamlit.app](https://digitsense.streamlit.app/)")**
 
 
 ---
