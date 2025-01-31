@@ -47,7 +47,7 @@ st.sidebar.write("""
 st.sidebar.header("📬 Contact Details")
 st.sidebar.write("[LinkedIn](https://www.linkedin.com/in/bjorn-r-axelsson/)")
 st.sidebar.write("[GitHub](https://github.com/Mrcolgate2024)")
-st.sidebar.write("[Email](bjorn.r.axelsson@gmail.com)")
+st.sidebar.markdown("[Email](mailto:bjorn.r.axelsson@gmail.com)")
 
 
 # ========================== Load Models ==========================
